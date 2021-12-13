@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Origam-sms</id>
+    <version>1.0.0</version>
+    <title>Origam.Sms</title>
+    <authors>origam</authors>
+    <license type="expression">GPL-3.0-only</license>
+    <licenseUrl>https://licenses.nuget.org/GPL-3.0-only</licenseUrl>
+    <icon>OrigamIcon.png</icon>
+    <projectUrl>https://community.origam.com/</projectUrl>
+    <description>Sms Interface for sening SMS</description>
+    <tags>origam</tags>
+    <repository url="https://github.com/MikulaJan/origam-sms" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\bin\Debug\net461\Origam-sms.dll" target="lib\net461\Origam-sms.dll" />
+    <file src="C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\bin\Debug\netstandard2.0\Origam-sms.dll" target="lib\netstandard2.0\Origam-sms.dll" />
+    <file src="C:\Users\Sapphire\Downloads\OrigamIcon.png" target="OrigamIcon.png" />
+  </files>
+</package>
