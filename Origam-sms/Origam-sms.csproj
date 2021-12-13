@@ -1,8 +1,27 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <RootNamespace>Origam_sms</RootNamespace>
         <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
+        <Title>Origam.Sms</Title>
+        <Authors>origam</Authors>
+        <Description>SMS interface for sending SMS.</Description>
+        <PackageProjectUrl>https://community.origam.com/</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/MikulaJan/origam-sms</RepositoryUrl>
+        <PackageTags>origam</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+        <PackageIcon>OrigamIcon.png</PackageIcon>
+        <PackageIconUrl />
+        <PackageVersion>1.0.1</PackageVersion>
+        <PackageReleaseNotes>- Fixed description typo.</PackageReleaseNotes>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="..\..\..\Downloads\OrigamIcon.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
 
 </Project>
