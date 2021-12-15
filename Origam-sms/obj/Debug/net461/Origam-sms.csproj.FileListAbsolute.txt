@@ -1,9 +1,0 @@
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\bin\Debug\net461\Origam-sms.dll
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\bin\Debug\net461\Origam-sms.pdb
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.csproj.AssemblyReference.cache
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.AssemblyInfoInputs.cache
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.AssemblyInfo.cs
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.csproj.CoreCompileInputs.cache
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.dll
-C:\Users\Sapphire\Documents\Origam-sms\Origam-sms\obj\Debug\net461\Origam-sms.pdb
