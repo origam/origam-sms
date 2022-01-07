@@ -13,8 +13,9 @@
         <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
         <PackageIcon>OrigamIcon.png</PackageIcon>
         <PackageIconUrl />
-        <PackageVersion>1.0.1</PackageVersion>
-        <PackageReleaseNotes>- Fixed description typo.</PackageReleaseNotes>
+        <PackageVersion>1.0.2</PackageVersion>
+        <PackageReleaseNotes>- Fixed description typo.
+- updated interface to void</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
