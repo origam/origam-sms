@@ -23,6 +23,6 @@ namespace Origam.Sms
 {
     public interface ISmsService
     {
-        int SendSms(string from, string to, string body);
+        void SendSms(string from, string to, string body);
     }
 }
