@@ -44,15 +44,12 @@ jobs:
       with:
         languages: ${{ matrix.language }}
 
-    - name: setup-msbuild
-      uses: microsoft/setup-msbuild@v1
-
     - name: NuGet Restore
       run: nuget restore Origam-sms.sln
     
     - name: Build Backend
       run: |
-       msbuild Origam-sms.sln /p:UseSharedCompilation=false /p:Configuration="Release"
+       dotnet build Origam-sms.sln --configuration="Release"
        
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
