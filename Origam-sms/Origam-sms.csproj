@@ -12,7 +12,7 @@
         <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
         <PackageIcon>origam-icon-large.png</PackageIcon>
         <PackageIconUrl />
-        <PackageVersion>1.0.2</PackageVersion>
+        <PackageVersion>2.0.0</PackageVersion>
         <PackageReleaseNotes>- Fixed description typo.
 - updated interface to void</PackageReleaseNotes>
         <TargetFramework>netstandard2.1</TargetFramework>
