@@ -11,7 +11,7 @@
         <PackageTags>origam</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
-        <PackageIcon>OrigamIcon.png</PackageIcon>
+        <PackageIcon>origam-icon-large.png</PackageIcon>
         <PackageIconUrl />
         <PackageVersion>1.0.2</PackageVersion>
         <PackageReleaseNotes>- Fixed description typo.
@@ -19,7 +19,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Include="..\..\..\Downloads\OrigamIcon.png">
+      <None Update="origam-icon-large.png">
         <Pack>True</Pack>
         <PackagePath></PackagePath>
       </None>
