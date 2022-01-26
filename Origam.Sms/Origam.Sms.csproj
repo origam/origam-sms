@@ -4,7 +4,7 @@
         <RootNamespace>Origam.Sms</RootNamespace>
         <Title>Origam.Sms</Title>
         <Authors>origam</Authors>
-        <Description>SMS interface for sending SMS.</Description>
+        <Description>The package contains an interface for sending SMS with Origam</Description>
         <PackageProjectUrl>https://community.origam.com/</PackageProjectUrl>
         <RepositoryUrl>https://github.com/origam/origam-sms</RepositoryUrl>
         <PackageTags>origam</PackageTags>
