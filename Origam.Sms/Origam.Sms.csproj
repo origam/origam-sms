@@ -17,6 +17,8 @@
         <AssemblyName>Origam.Sms</AssemblyName>
         <PackageId>Origam.Sms</PackageId>
         <Product>Origam.Sms</Product>
+        <AssemblyVersion>2.0.0</AssemblyVersion>
+        <FileVersion>2.0.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
