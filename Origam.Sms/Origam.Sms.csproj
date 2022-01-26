@@ -28,4 +28,12 @@
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Resources\origam-icon-large.png" />
+      <Resource Include="Resources\origam-icon-large.png">
+        <Pack>True</Pack>
+        <PackagePath>\</PackagePath>
+      </Resource>
+    </ItemGroup>
+
 </Project>
