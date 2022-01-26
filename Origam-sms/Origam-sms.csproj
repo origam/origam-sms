@@ -2,26 +2,26 @@
 
     <PropertyGroup>
         <RootNamespace>Origam_sms</RootNamespace>
-        <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
         <Title>Origam.Sms</Title>
         <Authors>origam</Authors>
         <Description>SMS interface for sending SMS.</Description>
         <PackageProjectUrl>https://community.origam.com/</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/MikulaJan/origam-sms</RepositoryUrl>
+        <RepositoryUrl>https://github.com/origam/origam-sms</RepositoryUrl>
         <PackageTags>origam</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
-        <PackageIcon>OrigamIcon.png</PackageIcon>
+        <PackageIcon>origam-icon-large.png</PackageIcon>
         <PackageIconUrl />
-        <PackageVersion>1.0.2</PackageVersion>
+        <PackageVersion>2.0.0</PackageVersion>
         <PackageReleaseNotes>- Fixed description typo.
 - updated interface to void</PackageReleaseNotes>
+        <TargetFramework>netstandard2.1</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
-      <None Include="..\..\..\Downloads\OrigamIcon.png">
+      <None Update="origam-icon-large.png">
         <Pack>True</Pack>
-        <PackagePath></PackagePath>
+        <PackagePath>\</PackagePath>
       </None>
     </ItemGroup>
 
