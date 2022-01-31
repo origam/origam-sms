@@ -13,6 +13,7 @@
 /httpRequests/
 # Visual Studio folders
 /vs/
+/.vs/
 /.idea/
 nuget.exe
 /Origam-sms/bin
